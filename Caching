@@ -1,0 +1,4 @@
+Can you explain how to implement data caching to minimize repeated calls to an external API? 
+For example, if we have an API that retrieves an access token, what strategies can we use to cache the access token effectively? 
+Additionally, what cache refresh policies would you recommend to ensure that the data remains current? 
+This version clearly outlines your query while maintaining a professional tone suitable for an interview.
